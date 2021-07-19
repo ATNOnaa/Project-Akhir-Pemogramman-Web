@@ -101,7 +101,7 @@
                                             ?>
 
                                         <tr>
-                                            <td><?php echo tgl_indo(date('Y-m-d')).' pukul '.(date('H:i:s')).' WIB '?></td>
+                                            <td><?php echo tgl_indo(date('Y-m-d')).' pukul '.(date('H:i')).' WIB '?></td>
                                             <td><?=$namabarang;?></td>
                                             <td><?=$qty;?></td>
                                             <td><?=$keterangan;?></td>
